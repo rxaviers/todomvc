@@ -1,0 +1,19 @@
+{
+  "pt": {
+    "(count, plural, one (# item left) other (# items left) )": [
+      "{count, plural, ",
+      "   one {# item restante} ",
+      " other {# itens restantes}  ",
+      "}"
+    ],
+    "Active": "Ativos",
+    "All": "Todos",
+    "Clear completed": "Apagar tarefas completas",
+    "Completed": "Completos",
+    "Created by [petehunt|] (React) and [rxaviers|] (Globalize)": "Criado por [petehunt/] (React) e [rxaviers/] (Globalize)",
+    "Double-click to edit a todo": "Clique duas vezes para editar uma tarefa",
+    "Part of [TodoMVC|]": "Parte do projeto [TodoMVC/]",
+    "What needs to be done?": "O que você precisa fazer?",
+    "todos": "tarefas"
+  }
+}

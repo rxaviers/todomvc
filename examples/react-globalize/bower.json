@@ -1,0 +1,17 @@
+{
+  "name": "todomvc-react-globalize",
+  "private": true,
+  "dependencies": {
+    "almond": "0.2.9",
+    "cldr-data": "rxaviers/cldr-data-bower#amd-plugin",
+    "globalize": "jquery/globalize#fix-398-runtime",
+    "react": "^0.13.0",
+    "react-globalize": "git://github.com/rxaviers/react-globalize#b0.3.0",
+    "requirejs": "2.1.x",
+    "requirejs-react-jsx": "0.13.1",
+    "requirejs-text": "2.0.x",
+    "todomvc-app-css": "^1.0.0",
+    "todomvc-common": "^1.0.1",
+    "director": "~1.2.8"
+  }
+}

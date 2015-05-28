@@ -1,0 +1,19 @@
+{
+  "es": {
+    "(count, plural, one (# item left) other (# items left) )": [
+      "{count, plural,",
+      "   one {# item left}",
+      " other {# items left}",
+      "}"
+    ],
+    "Active": "Active",
+    "All": "All",
+    "Clear completed": "Clear completed",
+    "Completed": "Completed",
+    "Created by [petehunt|] (React) and [rxaviers|] (Globalize)": "Created by [petehunt/] (React) and [rxaviers/] (Globalize)",
+    "Double-click to edit a todo": "Double-click to edit a todo",
+    "Part of [TodoMVC|]": "Part of [TodoMVC/]",
+    "What needs to be done?": "What needs to be done?",
+    "todos": "todos"
+  }
+}

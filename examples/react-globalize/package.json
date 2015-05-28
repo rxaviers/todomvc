@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "dependencies": {
+    "async": "0.9.0",
+    "cldr-data-downloader": "0.2.x",
+    "grunt": "0.4.x",
+    "grunt-compare-size": "0.4.x",
+    "grunt-contrib-clean": "0.6.x",
+    "grunt-contrib-copy": "0.8.x",
+    "grunt-contrib-jshint": "0.11.x",
+    "grunt-contrib-requirejs": "0.4.x",
+    "grunt-contrib-uglify": "0.9.x",
+    "grunt-react": "0.12.x",
+    "grunt-react-globalize": "rxaviers/grunt-react-globalize#b0.0.1",
+    "gzip-js": "0.3.x",
+    "lodash": "^3.9.1",
+    "matchdep": "*",
+    "react-tools": "0.13.x",
+    "requirejs": "2.1.17"
+  }
+}
