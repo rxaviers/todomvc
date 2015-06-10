@@ -12,6 +12,8 @@ This example assumes you're sold to React already and it focuses on the Globaliz
 
 > _[ReactGlobalize - kborchers/react-globalize](https://github.com/kborchers/react-globalize)_
 
+*Disclosure*: In this demo, (a) we're using AMD and its r.js, but another demo using webpack is on its way; (b) we're using bower for managing the dependencies, but one could use npm exclusively without any problme; (c) we're using Grunt for tooling, but the compiler and default message extractor themselves are JavaScript libraries. Therefore, we believe that porting to Gulp or other task-frameworks shouldn't be hard (and we'll be happy to provide assistance).
+
 ## Goals
 
 ### Production code
