@@ -2,18 +2,18 @@
   "de": {
     "(count, plural, one (# item left) other (# items left) )": [
       "{count, plural,",
-      "   one {# item left}",
-      " other {# items left}",
+      "   one {# Aufgabe übrig}",
+      " other {# Aufgaben übrig}",
       "}"
     ],
-    "Active": "Active",
-    "All": "All",
-    "Clear completed": "Clear completed",
-    "Completed": "Completed",
-    "Created by [petehunt|] (React) and [rxaviers|] (Globalize)": "Created by [petehunt/] (React) and [rxaviers/] (Globalize)",
-    "Double-click to edit a todo": "Double-click to edit a todo",
-    "Part of [TodoMVC|]": "Part of [TodoMVC/]",
-    "What needs to be done?": "What needs to be done?",
-    "todos": "todos"
+    "Active": "Aktiv",
+    "All": "Alle",
+    "Clear completed": "Erledigte Aufgaben löschen",
+    "Completed": "Erledigt",
+    "Created by [petehunt|] (React) and [rxaviers|] (Globalize)": "Erstellt von [petehunt/] (React) and [rxaviers/] (Globalize)",
+    "Double-click to edit a todo": "Doppelklick um eine Aufgabe zu editieren",
+    "Part of [TodoMVC|]": "Teil von [TodoMVC/]",
+    "What needs to be done?": "Was ist zu tun?",
+    "todos": "Aufgaben"
   }
 }
