@@ -28,34 +28,34 @@ Globalize.a940237778 = pluralGeneratorFn(function(n) {
   return (n == 1 && v0) ? 'one' : 'other';
 });
 Globalize.a1810536572 = messageFormatterFn((function(  ) {
-  return function (d) { return "Part of [TodoMVC/]"; }
+  return function (d) { return "Teil von [TodoMVC/]"; }
 })());
 Globalize.a654292317 = messageFormatterFn((function(  ) {
-  return function (d) { return "todos"; }
+  return function (d) { return "Aufgaben"; }
 })());
 Globalize.a493353903 = messageFormatterFn((function( number, plural, pluralFuncs ) {
-  return function (d) { return plural(d.count, 0, pluralFuncs.de, { one: function() { return number(d.count) + " item left";}, other: function() { return number(d.count) + " items left";} }); }
+  return function (d) { return plural(d.count, 0, pluralFuncs.de, { one: function() { return number(d.count) + " Aufgabe übrig";}, other: function() { return number(d.count) + " Aufgaben übrig";} }); }
 })(messageFormat.number, messageFormat.plural, {"de": Globalize("de").pluralGenerator()}));
 Globalize.b1597339087 = messageFormatterFn((function(  ) {
-  return function (d) { return "All"; }
+  return function (d) { return "Alle"; }
 })());
 Globalize.b1838363636 = messageFormatterFn((function(  ) {
-  return function (d) { return "What needs to be done?"; }
+  return function (d) { return "Was ist zu tun?"; }
 })());
 Globalize.b1422184293 = messageFormatterFn((function(  ) {
-  return function (d) { return "Completed"; }
+  return function (d) { return "Erledigt"; }
 })());
 Globalize.a1798898568 = messageFormatterFn((function(  ) {
-  return function (d) { return "Clear completed"; }
+  return function (d) { return "Erledigte Aufgaben löschen"; }
 })());
 Globalize.a1795374778 = messageFormatterFn((function(  ) {
-  return function (d) { return "Double-click to edit a todo"; }
+  return function (d) { return "Doppelklick um eine Aufgabe zu editieren"; }
 })());
 Globalize.b1945219737 = messageFormatterFn((function(  ) {
-  return function (d) { return "Created by [petehunt/] (React) and [rxaviers/] (Globalize)"; }
+  return function (d) { return "Erstellt von [petehunt/] (React) and [rxaviers/] (Globalize)"; }
 })());
 Globalize.b1488220788 = messageFormatterFn((function(  ) {
-  return function (d) { return "Active"; }
+  return function (d) { return "Aktiv"; }
 })());
 
 return Globalize;
