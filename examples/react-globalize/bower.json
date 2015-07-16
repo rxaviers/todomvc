@@ -4,7 +4,7 @@
   "dependencies": {
     "almond": "0.2.9",
     "cldr-data": "rxaviers/cldr-data-bower#amd-plugin",
-    "globalize": "jquery/globalize#fix-398-runtime",
+    "globalize": "jquery/globalize#runtime-temp-build",
     "react": "^0.13.0",
     "react-globalize": "git://github.com/rxaviers/react-globalize#b0.3.0",
     "requirejs": "2.1.x",
